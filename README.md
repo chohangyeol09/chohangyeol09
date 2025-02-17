@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=CHG Github🎮)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=CHG%20Github&textBg=false)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&pause=1000&color=6EF700&center=true&width=440&lines=HELLO+WORLD+%F0%9F%A4%96)](https://git.io/typing-svg)
 

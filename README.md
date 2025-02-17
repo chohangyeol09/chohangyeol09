@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Hello!🎮)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=CHG Github🎮)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&pause=1000&color=6EF700&center=true&width=440&lines=HELLO+WORLD+%F0%9F%A4%96)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 
   ## Email : chohangyeol09@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chohangyeol09)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chohangyeol09)](https://github.com/anuraghazra/github-readme-stats)
 

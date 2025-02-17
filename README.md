@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=4166F5&text=Hello,%20I'm%20koori!&textBg=false&fontColor=234794&fontSize=90&animation=fadeIn](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Github&fontAlign=49))
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02C0F7&background=3EFF0000&width=435&lines=chohangyeol09" alt="Typing SVG" /></a>
 <!--
